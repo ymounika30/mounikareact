@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mounikareact.git/static/css/main.073c9b0a.css",
+    "main.js": "/mounikareact.git/static/js/main.29b07f71.js",
+    "static/js/787.469f9f4f.chunk.js": "/mounikareact.git/static/js/787.469f9f4f.chunk.js",
+    "index.html": "/mounikareact.git/index.html",
+    "main.073c9b0a.css.map": "/mounikareact.git/static/css/main.073c9b0a.css.map",
+    "main.29b07f71.js.map": "/mounikareact.git/static/js/main.29b07f71.js.map",
+    "787.469f9f4f.chunk.js.map": "/mounikareact.git/static/js/787.469f9f4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.29b07f71.js"
+  ]
+}
